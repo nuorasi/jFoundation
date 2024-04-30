@@ -78,7 +78,8 @@
             <img class="background" src="/images/nycWide.jpg" alt="">
             <div class="hero_content_wrap fadein-wrap slide_up heading-3" style="margin-top:0px;">
                 <h1 class="heading-3" style= "text-transform: uppercase; color:#ffffff; font-family:Huovaoutline, sans-serif;">FOR GOD<br>
-                    SO LOVES NYC  <br>
+                    SO LOVED
+                    NEW YORK CITY  <br>
                    </h1>
                 <p>A non-profit dedicated to reflecting the love of Jesus and growing the church in New York City.
                 </p>
