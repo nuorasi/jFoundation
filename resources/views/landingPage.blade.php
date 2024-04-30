@@ -75,7 +75,7 @@
           <!--  <img class="background" src="/images/2022PB63_7179-5-scaled.jpg" alt=""> -->
 {{--          <img class="background" src="./videos/jFoundHero.mov" alt="">--}}
 {{--            <video src="https://player.vimeo.com/video/941037164?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" autoplay loop playsinline muted style="height:90%;"></video>--}}
-            <img class="background" src="/images/nycWide.jpg" alt="">
+            <img class="background" src="/images/nycWide.jpgx" alt="">
             <div class="hero_content_wrap fadein-wrap slide_up heading-3" style="margin-top:0px;">
                 <h1 class="heading-3" style= "text-transform: uppercase; color:#ffffff; font-family:Huovaoutline, sans-serif;">FOR GOD<br>
                     SO LOVES NYC  <br>
